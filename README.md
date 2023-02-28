@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+![Metrics](/github-metrics.svg)
